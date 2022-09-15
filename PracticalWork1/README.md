@@ -1,5 +1,5 @@
 # Practiacal work 1
 
-## Snowman
-
-[image](./Snowman.png)
+| Render                  | Name    |
+| ----------------------- | ------- |
+| ![image](./Snowman.png) | Snowman |
