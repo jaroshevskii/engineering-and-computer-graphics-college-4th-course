@@ -2,6 +2,6 @@
 
 | Render                 | Name        |
 | ---------------------- | ----------- |
-| ![image](./Chair)      | Chair       |
-| ![image](./House)      | House       |
-| ![image](./SpacePlane) | Spase plane |
+| ![image](./Chair.png)      | Chair       |
+| ![image](./House.png)      | House       |
+| ![image](./SpacePlane.png) | Spase plane |
