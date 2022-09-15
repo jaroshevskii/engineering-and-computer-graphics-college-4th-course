@@ -1,2 +1,3 @@
-# engineering-and-computer-graphics-college-4th-course
+# Engineering and computer graphics
+
 Repository with tasks on engineering and computer graphics from the 4th course of college.
