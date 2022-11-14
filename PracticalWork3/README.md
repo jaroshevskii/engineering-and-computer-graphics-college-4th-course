@@ -2,6 +2,6 @@
 
 Grid models.
 
-| Render                            | Name  |
-| --------------------------------- | ----- |
-| ![image](./VintageStreetLamp.png) | Chair |
+| Render                            | Name                |
+| --------------------------------- | ------------------- |
+| ![image](./VintageStreetLamp.png) | Vintage street lamp |
