@@ -2,6 +2,7 @@
 
 Grid models.
 
-| Render                            | Name                |
-| --------------------------------- | ------------------- |
-| ![image](./VintageStreetLamp.png) | Vintage street lamp |
+| Render                              | Name                  |
+| ----------------------------------- | --------------------- |
+| ![image](./VintageStreetLamp.png)   | Vintage street lamp   |
+| ![image](./Intersect+Diference.png) | Intersect + diference |
