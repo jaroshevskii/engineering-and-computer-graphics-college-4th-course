@@ -1,5 +1,7 @@
 # Practiacal work 2
 
+Edit mode in Blender.
+
 | Render                     | Name        |
 | -------------------------- | ----------- |
 | ![image](./Chair.png)      | Chair       |
