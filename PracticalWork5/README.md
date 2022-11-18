@@ -2,9 +2,9 @@
 
 Creation of surfaces.
 
-| Render                       | Name       |
-| ---------------------------- | ---------- |
-| ![image](./ChessBoard.png)   | ChessBoard |
-| ![image](./Plane.png)        | Plane      |
-| ![image](./Landscape.png)    | Landscape  |
-| ![image](./Lighthouse.png)   | Lighthouse |
+| Render                       | Name        |
+| ---------------------------- | ----------- |
+| ![image](./ChessBoard.png)   | Chess board |
+| ![image](./Plane.png)        | Plane       |
+| ![image](./Landscape.png)    | Landscape   |
+| ![image](./Lighthouse.png)   | Lighthouse  |
