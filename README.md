@@ -4,4 +4,4 @@ Repository with tasks on engineering and computer graphics (Blender) from the 4t
 
 | Render                                      | Name                                 |
 |:-------------------------------------------:|:------------------------------------:|
-| ![image](./PracticalWork6/Landscape5.png)   | Landscape ([PW6](./PracticalWork6/)) |
+| ![image](./PracticalWork7/Landscape1.png)   | Landscape ([PW7](./PracticalWork6/)) |
